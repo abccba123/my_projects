@@ -1,0 +1,38 @@
+import turtle
+radius = eval(input("Enter the radius for circle:"))
+turtle.pensize(15)
+
+turtle.color("blue")
+turtle.penup()
+turtle.goto(-110, -25)
+turtle.pendown()
+turtle.circle(radius)
+
+turtle.pensize(15)
+turtle.color("black")
+turtle.penup()
+turtle.goto(0, -25)
+turtle.pendown()
+turtle.circle(radius)
+
+turtle.pensize(15)
+turtle.color("red")
+turtle.penup()
+turtle.goto(110, -25)
+turtle.pendown()
+turtle.circle(radius)
+
+turtle.pensize(15)
+turtle.color("yellow")
+turtle.penup()
+turtle.goto(-55, -75)
+turtle.pendown()
+turtle.circle(radius)
+
+turtle.pensize(15)
+turtle.color("green")
+turtle.penup()
+turtle.goto(55, -75)
+turtle.pendown()
+turtle.circle(radius)
+turtle.done()
