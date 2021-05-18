@@ -1,3 +1,9 @@
+'''
+(Largest rows and columns) Write a program that randomly fills in 0s and 1s into
+a  4x4 matrix, prints the matrix, and finds the rows and columns with the most
+1s.
+'''
+
 import random
 matrix = []
 for row in range(4):
