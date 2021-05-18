@@ -1,3 +1,9 @@
+'''
+(Algebra: add two matrices) Write a function to add two matrices. The header of
+the function is:
+def addMatrix(a, b)
+'''
+
 rows = int(input("Enter the number of rows:"))
 columns = int(input("Enter the number of columns:"))
 
