@@ -1,3 +1,8 @@
+'''
+(Guess the capitals) Rewrite Exercise 11.40 using a dictionary to store the pairs
+of states and capitals so that the questions are randomly displayed.
+'''
+
 States_capital_dict = {"Alabama":"Montgomery","Alaska":"Juneau","Arizona":"Phoenix","Arkansas":"Little Rock","California":"Sacramento","Colorado":"Denver",
 "Connecticut":"Hartford",
 "Delaware":"Dover",
