@@ -1,3 +1,8 @@
+'''
+(Sort three integers) Write a program that prompts the user to enter three integers
+and displays them in increasing order.
+'''
+
 print("Enter three integers to sort them in increasing order: ")
 num1 = eval(input())
 num2 = eval(input())
