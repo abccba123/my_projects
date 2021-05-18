@@ -1,3 +1,11 @@
+'''
+(Sort three numbers) Write the following function to display three numbers in
+increasing order:
+def displaySortedNumbers(num1, num2, num3):
+Write a test program that prompts the user to enter three numbers and invokes the
+function to display them in increasing order.
+'''
+
 def displaySortedNumbers(num1, num2, num3):
     print("The sorted numbers are: ")
     if float(num1) > float(num2) and float(num1) > float(num3):
