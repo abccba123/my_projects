@@ -1,3 +1,8 @@
+''''
+Write a program that prompts the user to enter an amount (e.g., 100), the annual
+interest rate (e.g., 5), and the number of months (e.g., 6), and displays the amount
+in the savings account after the given month.
+''''
 principal = int(input("Enter an amount: "))
 print("Enter the rate: ")
 rate = int(input())
