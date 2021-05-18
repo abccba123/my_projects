@@ -1,3 +1,7 @@
+'''
+(Turtle: draw four squares) Write a program that draws four squares in the center
+of the screen
+'''
 import turtle
 turtle.setup(250, 250, 0, 0)
 # draw the bottom-right square
