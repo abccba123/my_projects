@@ -1,3 +1,9 @@
+'''
+(Sum the major diagonal in a matrix) Write a function that sums all the numbers
+of the major diagonal in an n*n matrix of integers using the following header:
+def sumMajorDiagonal(m):
+'''
+
 def main():
     matrix = []
 
