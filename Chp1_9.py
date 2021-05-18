@@ -1,3 +1,8 @@
+'''
+Write a program that displays the area and
+perimeter of a rectangle with the width of 4.5 and height of 7.9 using the following
+formula:
+'''
 import math
 Width = 4.5
 Height = 7.9
