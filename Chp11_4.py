@@ -1,3 +1,11 @@
+'''
+(Compute the weekly hours for each employee) Suppose the weekly hours for all
+employees are stored in a table. Each row records an employee’s seven-day work
+hours with seven columns. For example, the following table stores the work hours
+for eight employees. Write a program that displays employees and their total hours
+in decreasing order of the total hours.
+'''
+
 Employee = ["Employee 0", "Employee 1", "Employee 2", "Employee 3", "Employee 4", "Employee 5", "Employee 6",
             "Employee 7"]
 Employee_hours = [[2, 4, 3, 4, 5, 8, 8],
